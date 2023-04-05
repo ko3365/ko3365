@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Yungunn
 - Undergraduate: Majored in Chemical Engineering at UCLA
+- Masters: Master of Engineering - Autonomous Systems at UCLA
 - 2.5 Years Experience as Battery Process Engineer (Electrode) at LG Energy Solution
-- Currently studying at UCLA: Master of Engineering - Autonomous Systems
+- Currently working at Proterra. Battery Algorithm & Simulation Engineer
 - ⚒️(Skills) Python / Matlab / C++ 
 - ✏️ Interested in State Estimation(Kalman Filter), Automation, Battery Management Systems, and Battery Modeling!
 <!---
