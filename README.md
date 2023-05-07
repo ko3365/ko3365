@@ -2,7 +2,7 @@
 - Undergraduate: Majored in Chemical Engineering at UCLA
 - Masters: Master of Engineering - Autonomous Systems at UCLA
 - 2.5 Years Experience as Battery Process Engineer (Electrode) at LG Energy Solution
-- Currently working at Proterra as Battery Algorithm & Simulation Engineer
+- Currently working as a Battery Algorithm & Simulation Engineer
 - ⚒️(Skills) Python / Matlab / C++ 
 - ✏️ Interested in State Estimation(Kalman Filter), Automation, Battery Management Systems, and Battery Modeling!
 <!---
